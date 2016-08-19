@@ -1,0 +1,14 @@
+img {
+    width: 304px;
+    height: 350px;
+}
+
+body {
+    text-align: center;
+    font-family: Arial;
+    background-color: powderblue;
+}
+
+h1 {
+    font-size: 50px
+}
